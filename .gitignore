@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Airflow generated logs
+airflow/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Power BI temporary/lock files
+~*.pbix
+*.pbit.tmp
+
+# PostgreSQL / Docker local data
+postgres_data/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Smartphone Pro Max,Electronics,28043.24
+2,Wireless Noise Cancelling Earbuds,Electronics,3011.06
+3,Ultra-Slim 14-inch Laptop,Electronics,64028.3
+4,Fitness Smartwatch with SpO2,Electronics,2324.92
+5,Portable Bluetooth Speaker 20W,Electronics,3026.39
+6,43-inch 4K Ultra HD Smart TV,Electronics,22709.9
+7,Ergonomic Optical Gaming Mouse,Electronics,1169.34
+8,Mechanical RGB Gaming Keyboard,Electronics,2448.97
+9,10-inch Android Tablet,Electronics,11424.27
+10,20000mAh Fast Charging Power Bank,Electronics,1936.14
+11,Over-Ear Studio Headphones,Electronics,9461.52
+12,1TB External Solid State Drive,Electronics,5690.75
+13,7-in-1 USB-C Multiport Adapter,Electronics,2131.33
+14,1080p Full HD Streaming Webcam,Electronics,2714.07
+15,Dual Band Gigabit Wi-Fi 6 Router,Electronics,3494.53
+16,Mini Portable LED Projector,Electronics,13450.97
+17,Smart Wi-Fi Home Security Camera,Electronics,2276.26
+18,Wireless Charging Pad 15W,Electronics,1854.55
+19,Smart Wi-Fi Plug 16A with Energy Monitoring,Electronics,1007.13
+20,Action Camera 4K Waterproof,Electronics,7731.56
+21,Men's Regular Fit Cotton T-Shirt,Clothing,836.3
+22,Women's Floral Anarkali Kurti,Clothing,1475.64
+23,Men's Slim Fit Stretch Denim Jeans,Clothing,2025.31
+24,Women's High-Waist Skinny Jeans,Clothing,2116.77
+25,Men's Formal Pure Cotton Shirt,Clothing,1652.78
+26,Women's Casual Cotton Maxi Dress,Clothing,1210.27
+27,Fleece Pullover Winter Hoodie,Clothing,2010.3
+28,Men's Quick-Dry Sports Shorts,Clothing,579.08
+29,Pure Banarasi Art Silk Saree,Clothing,4319.5
+30,Unisex Classic Denim Jacket,Clothing,3480.53
+31,Men's Casual Chino Trousers,Clothing,1451.87
+32,Breathable Activewear Sports Bra,Clothing,910.33
+33,Cotton Ankle Length Socks (Pack of 3),Clothing,312.93
+34,Athletic Training Track Pants,Clothing,709.99
+35,Pure Linen Casual Button-Down Shirt,Clothing,2865.41
+36,Soft Merino Woolen Muffler Scarf,Clothing,601.9
+37,Lightweight Waterproof Rain Jacket,Clothing,1389.36
+38,Women's Embroidered Palazzo Pants,Clothing,1342.05
+39,Stainless Steel Insulated Water Bottle 1L,Home & Kitchen,1121.52
+40,Hard Anodized Non-Stick Frying Pan,Home & Kitchen,1418.4
+41,Ceramic Tea & Coffee Mug Set (Pack of 6),Home & Kitchen,994.52
+42,Stainless Steel Kitchen Chef Knife 8-inch,Home & Kitchen,800.81
+43,Cordless Electric Kettle 1.8L,Home & Kitchen,1760.38
+44,Digital Air Fryer 4.5L,Home & Kitchen,6528.88
+45,100% Pure Cotton King Size Bedsheet,Home & Kitchen,1626.32
+46,Microfiber Dust Cleaning Towels (Pack of 4),Home & Kitchen,253.36
+47,Soy Wax Scented Aromatherapy Candles,Home & Kitchen,493.52
+48,Airtight Food Storage Containers (Set of 6),Home & Kitchen,1218.45
+49,Revolving Spice Rack Organizer (16 Jars),Home & Kitchen,1254.37
+50,Silent Sweep Quartz Wall Clock 12-inch,Home & Kitchen,1105.68
+51,Vacuum Insulated Flask 750ml,Home & Kitchen,1385.93
+52,750W Mixer Grinder with 3 Jars,Home & Kitchen,3818.59
+53,Silicone Non-Stick Baking Mat,Home & Kitchen,620.53
+54,Stainless Steel Cutlery Set (24 Pieces),Home & Kitchen,1639.4
+55,Designing Data-Intensive Applications,Books,
+56,Clean Code: A Handbook of Agile Craftsmanship,Books,868.37
+57,Python for Data Analysis (3rd Edition),Books,1180.99
+58,The Psychology of Money,Books,470.58
+59,Atomic Habits: An Easy & Proven Way,Books,488.56
+60,Sapiens: A Brief History of Humankind,Books,579.94
+61,Deep Work: Rules for Focused Success,Books,356.45
+62,Rich Dad Poor Dad,Books,398.9
+63,Think and Grow Rich,Books,293.58
+64,The Alchemist,Books,356.43
+65,Ikigai: The Japanese Secret to a Long Life,Books,386.47
+66,Good to Great: Why Some Companies Make the Leap,Books,728.79
+67,Zero to One: Notes on Startups,Books,464.47
+68,To Kill a Mockingbird,Books,306.66
+69,Anti-Slip High Density Yoga Mat 6mm,Sports,1191.69
+70,Adjustable Dumbbells Set 20kg,Sports,3359.45
+71,Resistance Workout Bands (Set of 5),Sports,704.54
+72,Kashmir Willow Full Size Cricket Bat,Sports,1918.28
+73,All-Weather Football (Size 5),Sports,1195.7
+74,Graphite Badminton Racket Twin Pack,Sports,1549.39
+75,Speed Skipping Jump Rope with Ball Bearings,Sports,486.62
+76,Heavy Duty Canvas Gym Duffle Bag,Sports,1151.77
+77,Aerodynamic Bicycle Helmet,Sports,1315.33
+78,Anti-Fog UV Protection Swimming Goggles,Sports,876.32
+79,High Density Muscle Foam Roller 18-inch,Sports,1101.69
+80,Pressurized Championship Tennis Balls (Can of 3),Sports,629.19
+81,Vitamin C Radiance Face Serum 30ml,Beauty,641.39
+82,Gentle Hydrating Foaming Face Wash 150ml,Beauty,300.41
+83,Ultra-Matte Sunscreen Gel SPF 50 50g,Beauty,741.33
+84,Long-Stay Velvet Matte Lipstick,Beauty,605.41
+85,Bamboo Charcoal Peel-Off Face Mask,Beauty,279.38
+86,Onion & Bhringraj Anti-Hairfall Shampoo 300ml,Beauty,443.28
+87,Cold-Pressed Moroccan Argan Hair Oil 100ml,Beauty,
+88,Deep Nourishing Cocoa Butter Body Lotion 400ml,Beauty,457.85
+89,Natural Walnut Gentle Face Scrub 100g,Beauty,366.64
+90,Caffeine Infused Under Eye Cream 20g,Beauty,492.26
+91,Organic Darjeeling Whole Leaf Green Tea 250g,Grocery,432.43
+92,Cold-Pressed Extra Virgin Olive Oil 1L,Grocery,1591.57
+93,100% Durum Wheat Fusilli Pasta 500g,Grocery,186.14
+94,70% Single Origin Dark Chocolate Bar 100g,Grocery,265.1
+95,Premium California Whole Almonds 500g,Grocery,744.54
+96,Roasted Granulated Instant Coffee 100g,Grocery,320.77
+97,100% Pure Raw Forest Honey 500g,Grocery,423.56
+98,Whole Grain Rolled Oats 1kg,Grocery,322.02
+99,Creamy Unsweetened Peanut Butter 1kg,Grocery,458.92
+100,Aged Long Grain Traditional Basmati Rice 5kg,Grocery,828.75
